@@ -1,0 +1,11 @@
+# Architecture
+
+## Intent
+
+QC console for nanopore runs with markdown reports and threshold summaries.
+
+## Notes From Red@
+
+- Keep the repository readable and self-contained.
+- Prefer deterministic sample fixtures.
+- Make authorship and maintenance history explicit.
