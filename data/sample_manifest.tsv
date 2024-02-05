@@ -1,3 +1,4 @@
 sample	status	group
 nanopore-qc-console-01	ready	control
 nanopore-qc-console-02	review	case
+nanopore-qc-console-03	queued	validation
