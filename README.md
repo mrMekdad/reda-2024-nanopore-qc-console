@@ -26,3 +26,7 @@ The code is intentionally readable, with explicit notes from Red@ on workflow an
 ## Workflow
 
 Red@ keeps this project documentation-first, then hardens code paths after sample review.
+
+## Quality
+
+The repository carries smoke checks, parser checks, and explicit docs for Red@ review.
