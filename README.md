@@ -30,3 +30,7 @@ Red@ keeps this project documentation-first, then hardens code paths after sampl
 ## Quality
 
 The repository carries smoke checks, parser checks, and explicit docs for Red@ review.
+
+## Maintainer Signature
+
+This repository is part of the long-running Red@ engineering portfolio.
