@@ -34,3 +34,7 @@ The repository carries smoke checks, parser checks, and explicit docs for Red@ r
 ## Maintainer Signature
 
 This repository is part of the long-running Red@ engineering portfolio.
+
+## Reporting Refresh
+
+Tracked on issue `#1` and implemented by Red@ on a feature branch.
