@@ -7,3 +7,7 @@
 ## Local Review
 
 Initial parsing paths are in place. Next focus is heavier reporting and validation.
+
+## Issue #1
+
+Reporting flow is being tightened on a dedicated branch.
